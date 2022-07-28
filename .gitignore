@@ -1,6 +1,7 @@
 # Custom
 *.bak
 *.ini
+*~
 
 # Executables
 *.app
