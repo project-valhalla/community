@@ -1,6 +1,7 @@
 # Custom
 *.bak
 *.ini
+*.save-failed
 *~
 
 # Executables
