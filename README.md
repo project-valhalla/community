@@ -1,7 +1,8 @@
 # Community repository
-This repository contains both "work-in-progress" content and finished assets that were previously included in the main project.
+This repository encompasses a collection of content that comprises both "work-in-progress" content and completed assets that were formerly part of the main project.
 
-Do you think you have anything to contribute that the Valhalla project, the Cube community, or even other communities and projects could find interesting?
-Please, do not hesitate to drop a folder bearing your username and containing your licensed work.
+If you believe you have something valuable to contribute that could be of interest to the Valhalla Project or even other communities and projects, we warmly welcome your involvement.    
+Please feel free to drop a folder bearing your username and include your licensed work within it.
 
-Individual copyrights and distribution restrictions apply to each asset in this repository; for more information, see the readmes contained in each folder.
+It is important to note that individual copyrights and distribution restrictions are applicable to each asset within this repository.    
+To obtain detailed information about this subject, refer to the respective readme or license file included in each folder.
